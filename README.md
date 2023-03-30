@@ -1,4 +1,4 @@
-# CCompare forked repository w.r.t. original repository 
+# Compare forked repository w.r.t. original repository 
 
 To check the difference between your forked repository and the original one, you can follow these steps:
 
