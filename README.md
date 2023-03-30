@@ -32,3 +32,9 @@ git checkout yourRepoBranch
 ```
 git diff upstream/originalRepoBranch
 ```
+
+Store them in a file:
+
+```
+git diff upstream/originalRepoBranch >> diff.txt
+```
